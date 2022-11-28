@@ -12,8 +12,7 @@ With help this app you can convert temperature values from celsius to fahrenheit
 [Download](https://github.com/iba-gomel-students/avayavoda-python-be/archive/refs/heads/task_1.zip)
 archive. Unpack and install app following commands.
 ```bash
-sudo unzip avayavoda-python-be-task_1.zip
-cd avayavoda-python-be-task_1/task_1
+sudo unzip Console_App-main.zip
 sudo python3 setup.py build 
 sudo python3 setup.py install
 ```
