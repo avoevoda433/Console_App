@@ -9,7 +9,7 @@ With help this app you can convert temperature values from celsius to fahrenheit
 [Alexey Voevoda](https://github.com/avoevoda433)
 
 ## Installation
-[Download](https://github.com/iba-gomel-students/avayavoda-python-be/archive/refs/heads/task_1.zip)
+[Download](https://github.com/avoevoda433/Console_App/archive/refs/heads/main.zip)
 archive. Unpack and install app following commands.
 ```bash
 sudo unzip Console_App-main.zip
